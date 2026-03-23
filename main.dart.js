@@ -80174,7 +80174,7 @@ $1(a){return new A.jq(A.z(t.N,t.D6),$.ab())},
 $S:480}
 A.Id.prototype={
 H(a){var s=null
-return new A.xv(B.Jp,"Kid Routine",A.t8(s,s,B.b2,B.cy,s),!1,s)}}
+return new A.xv(B.Jp,"Daily Hero",A.t8(s,s,B.b2,B.cy,s),!1,s)}}
 A.xq.prototype={
 ai(){var s=null
 return new A.OU(A.b([new A.A_(s),new A.vq(s),new A.Ae(s),new A.z7(s)],t.p))}}
