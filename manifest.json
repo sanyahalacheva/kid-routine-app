@@ -1,6 +1,6 @@
 {
-    "name": "kid_routine_app",
-    "short_name": "kid_routine_app",
+    "name": "Daily Hero",
+    "short_name": "Daily Hero",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
